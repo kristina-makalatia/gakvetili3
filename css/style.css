@@ -1,0 +1,62 @@
+body{
+	padding: 30px 0 0 30px;
+}
+.logo{
+	width:100px;
+	display: inline-block;
+	margin-right:50px;
+	vertical-align: middle;
+}
+.active{
+	color:red;
+}
+.nav{
+	display: inline-block;
+}
+.nav-li{
+	display: inline-block;
+	margin-right: 21px;
+}
+.blue-box{
+	background: blue;
+	font-size: 52px;
+	display: inline-block;
+	padding: 10px;
+	margin-top:25px;
+}
+.date{
+	font-size:22px;
+	color: #3D58A6;
+}
+.article-box{
+	margin-top: 50px;
+}
+.image{
+	display: inline-block;
+	margin-right:35px;
+	vertical-align: top;
+}
+.article-p{
+	display: inline-block;
+	width: 929px;
+}
+.article{
+	background-color: #E6E6E6;
+}
+.img{
+	height: 30px;
+	display: inline-block;
+}
+.divider{
+     display: inline-block;
+     height: 30px;
+     width: 2px;
+     background-color: blue;
+     margin:0 30px;
+
+}
+.map{
+	width: 500px;
+	height: 900px;
+	margin-top:50px;
+}
